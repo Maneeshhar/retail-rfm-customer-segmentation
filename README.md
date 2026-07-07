@@ -34,13 +34,13 @@ An interactive Power BI dashboard that applies **RFM (Recency, Frequency, Moneta
 ## 🖼️ Screenshots
 
 ### Customer RFM Table
-![RFM Table](screenshots%20of%20pj2/01_rfm_table.png)
+![RFM Table](screenshots%20of%20pj2/Screenshot%202026-07-07%20131157.png)
 
 ### Sales Overview
-![Sales Overview](screenshots%20of%20pj2/02_sales_overview.png)
+![Sales Overview](screenshots%20of%20pj2/Screenshot%202026-07-07%20131202.png)
 
 ### Customer Segmentation
-![Customer Segmentation](screenshots%20of%20pj2/03_customer_segmentation.png)
+![Customer Segmentation](screenshots%20of%20pj2/Screenshot%202026-07-07%20131207.png)
 
 ## 🚧 Challenges Faced
 The raw dataset contained significant date-formatting inconsistencies (mixed US and UK date conventions), which caused nearly 60% of records to fail parsing initially. Diagnosing and resolving this required rebuilding the data transformation pipeline with explicit locale handling — a valuable real-world lesson in how messy data can be even from well-known public datasets.
