@@ -26,6 +26,12 @@ An interactive Power BI dashboard that applies **RFM (Recency, Frequency, Moneta
 4. **At-risk customers:** Segments like "Needs Attention" and "New Customers" highlight specific groups that could be targeted with re-engagement campaigns.
 5. **Spending patterns vary:** Some customers make infrequent but high-value purchases, while others purchase frequently in smaller amounts — suggesting different customer profiles requiring different marketing strategies.
 
+## 💡 Business Impact & Recommendations
+
+* "Champions" customers should be prioritized for loyalty rewards and early access to new products to maximize retention of the highest-value segment
+* "Needs Attention" and "New Customers" segments represent clear re-engagement opportunities — targeted email campaigns or discounts could convert them into repeat, high-frequency buyers before they churn
+* Given the UK/Europe sales concentration, there may be untapped growth potential in underrepresented regions worth further investigation
+
 ## 📁 Dashboard Pages
 1. **Customer RFM Table** — Full customer-level detail with Recency, Frequency, Monetary values, RFM scores, and segment labels.
 2. **Sales Overview** — Revenue, orders, and customer summary cards, monthly sales trend, top products, and sales by country.
